@@ -22,10 +22,10 @@
 我们欢迎每一位成员参与内容的贡献与优化，推动资源的开放共享，通过透明、健康的社区治理机制，让这个知识社区持续生长。
 
 ### License
-   CC BY-NC-ND 4.0
+   [CC BY-NC-ND 4.0](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/LICENSE)
    
 ### 免责声明
-请阅读免责声明.md
+请阅读[免责声明](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.md)
 
 🗃️ 课程表
 
