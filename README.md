@@ -30,7 +30,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 ### 免责声明
 请阅读[免责声明](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.md)
 
-🗃️ 课程表
+### 🗃️ 课程表
 
 |  课程Lesson   | 讲义Handout| 视频Video | 扩展学习 Extra Learning && 答疑互动 Q&A Interaction |
 |  ----  | ----  | ----  |-----------------------|
@@ -41,3 +41,17 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 | 医疗专属提示词工程及 MCP/skills 开发  | Coming Soon | Coming Soon | Coming Soon           |
 | 南方医院-医疗领域案例分享<br>门诊规范查询助手 + 出凝血功能评估案例  | Coming Soon | Coming Soon | Coming Soon           |
 | 南方医院-医疗领域案例分享<br>医保智能审核 + 南方智麻案例  | Coming Soon | Coming Soon | Coming Soon           |
+
+
+### 🙏 获取帮助
+
+如果您对于本系列课程有任何问题，欢迎跟帖每节课对应issue提问；
+或者添加“开源小助手”，进入技术交流群，与其他爱好者一同探讨。
+
+
+### 🗃️ 如何贡献
+
+报告问题：如果您发现了文字错误、资料错误或代码问题，欢迎提交“issue”  。
+内容分享：如果您有课程相关知识文档分享，欢迎提交“PR”  。
+实践探讨：如果您有智能体实践相关好的想法，想要与人探讨，欢迎发起“讨论”  。
+开源开发：如果您对我们的智能体平台开源代码感兴趣，欢迎访问ModelEngine/Nexent子仓，进行开发贡献。
