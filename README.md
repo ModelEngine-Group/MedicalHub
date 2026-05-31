@@ -22,7 +22,10 @@
 我们欢迎每一位成员参与内容的贡献与优化，推动资源的开放共享，通过透明、健康的社区治理机制，让这个知识社区持续生长。
 
 ### License
-   [CC BY-NC-ND 4.0](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/LICENSE)
+除非另有说明，本仓库内容采用 CC BY-NC-ND 4.0 国际许可协议发布。您可以在署名、非商业目的下分享本仓库内容，但不得修改、改编或用于商业目的。
+使用本仓库内容前，请阅读我们的免责声明。本仓库内容仅供学习、研究和交流参考，不构成医疗建议、诊断或治疗方案。
+许可证全文请见：
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
    
 ### 免责声明
 请阅读[免责声明](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.md)
