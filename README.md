@@ -21,14 +21,6 @@
 
 我们欢迎每一位成员参与内容的贡献与优化，推动资源的开放共享，通过透明、健康的社区治理机制，让这个知识社区持续生长。
 
-### License
-除非另有说明，本仓库内容采用 CC BY-NC-ND 4.0 国际许可协议发布。您可以在署名、非商业目的下分享本仓库内容，但不得修改、改编或用于商业目的。
-使用本仓库内容前，请阅读我们的免责声明。本仓库内容仅供学习、研究和交流参考，不构成医疗建议、诊断或治疗方案。
-许可证全文请见：
-https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-   
-### 免责声明
-请阅读[免责声明](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.md)
 
 ### 🗃️ 课程表
 
@@ -47,6 +39,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 如果您对于本系列课程有任何问题，欢迎跟帖每节课对应issue提问；
 或者添加“开源小助手”，进入技术交流群，与其他爱好者一同探讨。
+<img src="https://raw.gitcode.com/user-images/assets/9980532/57e82b11-49e2-4f39-bc12-ab17a5b791ed/开源小助手.png" alt="开源小助手.png" width="150">
 
 
 ### 🗃️ 如何贡献
@@ -55,3 +48,13 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 内容分享：如果您有课程相关知识文档分享，欢迎提交“PR”  。  
 实践探讨：如果您有智能体实践相关好的想法，想要与人探讨，欢迎发起“讨论”  。  
 开源开发：如果您对我们的智能体平台开源代码感兴趣，欢迎访问ModelEngine/Nexent子仓，进行开发贡献。
+
+
+### License
+除非另有说明，本仓库内容采用 CC BY-NC-ND 4.0 国际许可协议发布。您可以在署名、非商业目的下分享本仓库内容，但不得修改、改编或用于商业目的。
+使用本仓库内容前，请阅读我们的免责声明。本仓库内容仅供学习、研究和交流参考，不构成医疗建议、诊断或治疗方案。
+许可证全文请见：
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+   
+### 免责声明
+请阅读[免责声明](https://atomgit.com/ModelEngine/Medical-Agents-Hub/blob/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.md)
