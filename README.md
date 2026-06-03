@@ -27,7 +27,7 @@
 |  课程Lesson   | 讲义Handout| 视频Video | 扩展学习 Extra Learning && 答疑互动 Q&A Interaction |
 |  ----  | ----  | ----  |-----------------------|
 | 人工智能通识课（0基础版）  | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/01-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86%E8%AF%BE%E7%A8%8B.pdf) | [Link](https://www.chaspark.com/#/live/1277353582565990400) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/2 )       |
-| 医疗智能体综述及相关政策分享  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体综述及相关政策分享  | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/02-医疗智能体综述及政策.pdf) | [Link](https://www.chaspark.com/#/live/1278442982591811584) | Coming Soon           |
 | 医疗数据处理及知识库生成方法介绍  | Coming Soon | Coming Soon | Coming Soon           |
 | 智能体开发工具Nexent使用介绍  | Coming Soon | Coming Soon | Coming Soon           |
 | 医疗专属提示词工程及 MCP/skills 开发  | Coming Soon | Coming Soon | Coming Soon           |
