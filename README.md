@@ -29,7 +29,7 @@
 | 人工智能通识课（0基础版）  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/01-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86%E8%AF%BE%E7%A8%8B.pdf) | [茶思屋](https://www.chaspark.com/#/live/1277353582565990400) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/2 )       |
 | 医疗智能体综述及相关政策分享  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/02-医疗智能体综述及政策.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278442982591811584)，[B站](https://www.bilibili.com/video/BV1X5Eu6bEkC/?spm_id_from=333.1387.homepage.video_card.click&vd_source=39fe1c350cb644372bfed0b6a2c5791a) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/3)           |
 | 医疗数据处理及知识库生成方法介绍  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/03-医疗数据处理及知识库生成方法介绍.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278443825131016192) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/4)           |
-| 智能体开发工具Nexent使用介绍  | Coming Soon | Coming Soon | Coming Soon           |
+| 智能体开发工具Nexent使用介绍  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/04-医疗智能体公开课-Nexent智能体平台.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444053719085056) | Coming Soon           |
 | 医疗专属提示词工程及 MCP/skills 开发  | Coming Soon | Coming Soon | Coming Soon           |
 | 南方医院-医疗领域案例分享<br>门诊规范查询助手 + 出凝血功能评估案例  | Coming Soon | Coming Soon | Coming Soon           |
 | 南方医院-医疗领域案例分享<br>医保智能审核 + 南方智麻案例  | Coming Soon | Coming Soon | Coming Soon           |
