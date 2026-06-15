@@ -31,8 +31,10 @@
 | 医疗数据处理及知识库生成方法介绍  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/03-医疗数据处理及知识库生成方法介绍.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278443825131016192)，[B站](https://www.bilibili.com/video/BV1UnEE6jEg5?spm_id_from=333.788.videopod.sections&vd_source=39fe1c350cb644372bfed0b6a2c5791a) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/4)           |
 | 智能体开发工具Nexent使用介绍  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/04-医疗智能体公开课-Nexent智能体平台.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444053719085056) ，[B站](https://b23.tv/TKHXlwf)| [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/6)           |
 | 医疗专属提示词工程及 MCP/skills 开发  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/05-医疗专属提示词工程及MCP&Skills开发.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444335014277120) | Coming Soon           |
-| 南方医院-医疗领域案例分享<br>门诊规范查询助手 + 出凝血功能评估案例  | Coming Soon | Coming Soon | Coming Soon           |
-| 南方医院-医疗领域案例分享<br>医保智能审核 + 南方智麻案例  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体开发实践--临床医疗类：出凝血案例  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体开发实践--临床医疗类：南方智麻案例  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体开发实践--医疗管理、医学教学门站查询助手&急诊模拟教学智能体：  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体开发实践--医疗科研类：肾脏病科研助手  | Coming Soon | Coming Soon | Coming Soon           |
 
 
 ### 🙏 获取帮助
