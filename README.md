@@ -24,7 +24,7 @@
 
 ### 🗃️ 课程表
 
-|  课程Lesson   | 讲义Handout| 视频Video | 扩展学习 Extra Learning && 答疑互动 Q&A Interaction |
+|  课程Lesson   | 讲义Handout| 视频Video | 扩展学习 Extra Learning <br> 答疑互动 Q&A Interaction |
 |  ----  | ----  | ----  |-----------------------|
 | 人工智能通识课（0基础版）  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/01-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%80%9A%E8%AF%86%E8%AF%BE%E7%A8%8B.pdf) | [茶思屋](https://www.chaspark.com/#/live/1277353582565990400) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/2 )       |
 | 医疗智能体综述及相关政策分享  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/02-医疗智能体综述及政策.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278442982591811584)，[B站](https://www.bilibili.com/video/BV1X5Eu6bEkC/?spm_id_from=333.1387.homepage.video_card.click&vd_source=39fe1c350cb644372bfed0b6a2c5791a) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/3)           |
@@ -32,8 +32,8 @@
 | 智能体开发工具Nexent使用介绍  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/04-医疗智能体公开课-Nexent智能体平台.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444053719085056) ，[B站](https://b23.tv/TKHXlwf)| [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/6)           |
 | 医疗专属提示词工程及 MCP/skills 开发  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/05-医疗专属提示词工程及MCP&Skills开发.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444335014277120) ，[B站](https://www.bilibili.com/video/BV1zt7K6FEDX/)| [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/7)           |
 | 医疗智能体开发实践--临床医疗类：出凝血案例  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/06-医疗智能体开发实践--临床医疗类：出凝血案例.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444780369670144) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/8)           |
-| 医疗智能体开发实践--临床医疗类：南方智麻案例  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/07-医疗智能体开发实践--南方智麻.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278445365988282368) | Coming Soon           |
-| 医疗智能体开发实践--医疗管理、医学教学门站查询助手&急诊模拟教学智能体：  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体开发实践--临床医疗类：南方智麻案例  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/07-医疗智能体开发实践--南方智麻.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278445365988282368) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/9)           |
+| 医疗智能体开发实践--医疗管理、医学教学门站查询助手&急诊模拟教学智能体：  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/08-%E5%8C%BB%E7%96%97%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5--%E9%97%A8%E8%AF%8A%E8%A7%84%E8%8C%83%E6%9F%A5%E8%AF%A2%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB.pdf) | [茶思屋](https://www.chaspark.com/#/live/1287915592767393792) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/10)           |
 | 医疗智能体开发实践--医疗科研类：肾脏病科研助手  | Coming Soon | Coming Soon | Coming Soon           |
 
 
