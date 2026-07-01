@@ -34,7 +34,7 @@
 | 医疗智能体开发实践--临床医疗类：出凝血案例  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/06-医疗智能体开发实践--临床医疗类：出凝血案例.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278444780369670144)，[B站](https://www.bilibili.com/video/BV1ANTF6xEzS/) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/8)           |
 | 医疗智能体开发实践--临床医疗类：南方智麻案例  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/07-医疗智能体开发实践--南方智麻.pdf) | [茶思屋](https://www.chaspark.com/#/live/1278445365988282368) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/9)           |
 | 医疗智能体开发实践--医疗管理、医学教学门站查询助手&急诊模拟教学智能体：  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/08-%E5%8C%BB%E7%96%97%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5--%E9%97%A8%E8%AF%8A%E8%A7%84%E8%8C%83%E6%9F%A5%E8%AF%A2%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%9E%E8%B7%B5%E5%88%86%E4%BA%AB.pdf) | [茶思屋](https://www.chaspark.com/#/live/1287915592767393792) | [Link](https://gitcode.com/ModelEngine/Medical-Agents-Hub/issues/10)           |
-| 医疗智能体开发实践--医疗科研类：肾脏病科研助手  | Coming Soon | Coming Soon | Coming Soon           |
+| 医疗智能体开发实践--医疗科研类：肾脏病科研助手  | [课件](https://gitcode.com/ModelEngine/Medical-Agents-Hub/blob/main/01-learning%20resources/09-医疗智能体开发实践--医疗科研类：肾脏病科研助手Agent实例.pdf) | [茶思屋](https://www.chaspark.com/#/live/1288574151442456576) | Coming Soon           |
 
 
 ### 🙏 获取帮助
