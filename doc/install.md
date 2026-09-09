@@ -4,10 +4,14 @@
 
 本文档用于指导模型引擎相关组件（datamate、模型、pathbot）的部署操作，包含前置检查、卸载清理及分步部署流程，操作前请确认具备对应权限。
 
-下载地址:https://ruipath-image.obs.ap-southeast-1.myhuaweicloud.com:443/ruipath_25.zip?AccessKeyId=HPUAD8EHADYJSZGYIQBR&Expires=1788866117&Signature=O1aGcYiZD8gSN9wnk%2BXnQsAngzI%3D
+下载地址:
+通过网盘分享的文件：ruipath_25.zip
+链接: https://pan.baidu.com/s/19DiNizM9TzmkGxWVKUCf7A?pwd=scww 提取码: scww 
+--来自百度网盘超级会员v5的分享
+
 
 里面包括ruipath推理镜像，datamate安装包，appengine安装包，pathobot安装包以及各种脚本
-下载后放到master节点，然后执行unzip ruipath_25.zip
+下载后放到master节点空间超过50G的位置，然后执行unzip ruipath_25.zip
 
 
 **前置检查与卸载清理**
@@ -22,7 +26,7 @@
 
 1.  **分发镜像**
 
-在master节点执行分发镜像脚本
+解压后，找到脚本的位置，在master节点执行分发镜像脚本
 bash distribute\_images.sh
 
 流程:
