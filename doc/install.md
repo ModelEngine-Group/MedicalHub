@@ -82,12 +82,14 @@ bash deploy-secret.sh -n model-engine
 
 **4\. 部署appengine**
 
-1.  在master节点 cd AppEngine_opensource-1.3.4_Aarch64/tools
+
+1.  打开add_role_new.sh，修改文件14行和15行的内容，把命名空间和gaussdb的POD名字为自己环境的名字
+
+2.  在master节点 cd AppEngine_opensource-1.3.4_Aarch64/tools
 
     bash install.sh --ns appengine --storage-class my-storage-class
     -- ns 命名空间 --storage-class 存储名字
 
-2.  打开add_role_new.sh，修改文件14行和15行的内容，把命名空间和gaussdb的POD名字为自己环境的名字
 
 
 
